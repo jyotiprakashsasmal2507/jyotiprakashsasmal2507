@@ -5,7 +5,8 @@
 - 😍 Life is all about learning..
 -  📫 How to reach me ...
 -  email->jyotiprakashsasmal2507@gmail.com
--  insta->jyotiprakashsasmal2507
+-  insta->@jyotiprakashsasmal
+-  Twitter->@JyotiPr25072003
 - Thanks for seeing...BYE lots of code to learn
 <!---
 jyotiprakashsasmal2507/jyotiprakashsasmal2507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
